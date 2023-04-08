@@ -3,4 +3,8 @@ Ce programme permet de choisir un livre de votre pal aléatoirement à partir d'
 
 This Python program was made to choose a random book in your tbr shelf from a .csv file downloaded from Goodreads.
 
-<str>Comment utiliser ce programme Python</str>
+**_Comment utiliser ce programme Python ?_**
+
+Afin d'utiliser ce programme, il vous faudra :
+1) Aller sur le site _`goodreads.com`_
+
